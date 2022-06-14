@@ -1,0 +1,12 @@
+@media screen and (max-width: 900px) {
+    .grid-container {
+        display: grid;
+        width: fit-content;
+        margin: 32px auto;
+        grid-template-columns: 1fr 1fr;
+        grid-template-areas: 
+        "box-1 box-2"
+        "box-3 box-4";
+        grid-gap: 16px;
+    }
+}

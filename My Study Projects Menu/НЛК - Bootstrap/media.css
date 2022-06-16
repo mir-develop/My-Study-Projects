@@ -4,9 +4,14 @@ header {
 }
 .block1 {
     background: #e9ecef;
+    padding: 48px 16px;
+}
+.block2 {
+    padding: 32px 16px 64px;
 }
 footer {
     background: #F5F5F5;
+    padding: 24px 16px;
 }
 footer p {
     color: #6C757D;
